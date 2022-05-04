@@ -1,0 +1,27 @@
+﻿1.      "https://swapi.dev/api/people/4/"
+2.   "https://swapi.dev/api/planets/2/"
+3.   https://swapi.dev/api/starships/10?=manufacturer
+4. "https://swapi.dev/api/species/2/"
+        https://swapi.dev/api/people/2/
+5. https://swapi.dev/api/people/10/
+        https://swapi.dev/api/people/10/?=species
+6 ."https://swapi.dev/api/starships/10/"
+
+
+
+
+
+
+Social mountain
+
+
+1. Takes in a name(id), description, id of the post that you are editing and a type
+2. Returns an array of filtered posts
+3. https://practiceapi.devmountain.com/api/posts/555 
+4.    Returns an array of filtered posts or, request query is missing required text property
+5. https://practiceapi.devmountain.com/api/posts/
+6. Can’t 
+7. https://practiceapi.devmountain.com/api/posts/?=blue
+8. application/json; charset=utf-8
+9. When you dont provide the required parameters
+10.
